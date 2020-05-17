@@ -22,4 +22,4 @@ root@kali:~#python3 newsnotifier.py
 ```
 dont forget a give an image path for the icon in newsnotifier.py
 
-![news_notifier.png](images/news_nitifier1.png)
+![](images/news_notifier1.png)
