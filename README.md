@@ -3,9 +3,9 @@
 
 save the file news_generate_return.py and newsnotifier.py in same path..
 
-install notify2
+install the requirements.txt
 ```
-root@kali:~#pip install notify2
+root@kali:~#pip istall -r requirements.txt
 ```
 or if you have pip3 use pip3 insted of pip
 
