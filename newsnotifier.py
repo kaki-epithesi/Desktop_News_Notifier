@@ -13,7 +13,7 @@ notify2.init("News Notifier")
 
 # creating Notification object
 #give icon image path icon=""
-n = notify2.Notification(None, icon = "/root/Pictures/stego.png")
+n = notify2.Notification(None, icon = "/")
 
 # seting urgency level
 n.set_urgency(notify2.URGENCY_NORMAL)
