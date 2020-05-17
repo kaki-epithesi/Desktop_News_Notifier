@@ -21,3 +21,5 @@ root@kali:~#python3 news_generate_return.py
 root@kali:~#python3 newsnotifier.py
 ```
 dont forget a give an image path for the icon in newsnotifier.py
+
+![](images/news_nitifier1.png)
